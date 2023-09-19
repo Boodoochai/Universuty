@@ -10,6 +10,7 @@ def check_position(x, y, ticket, key_word, visited, ind):
         return False
 
     if ind == len(key_word) - 1:
+        visited[x][y] = 0
         return True
 
     s = 0
@@ -24,15 +25,16 @@ def check_position(x, y, ticket, key_word, visited, ind):
         visited[x][y] = 0
         return True
 
+    visited[x][y] = 0
     return False
 
 
 def main():
     key_word = list(input())
 
-    ticket = [[0] * 7 for i in range(7)]
+    ticket = [['-'] * 7 for i in range(7)]
     for i in range(1, 6):
-        ticket[i] = ['0'] + list(input()) + ['0']
+        ticket[i] = ['-'] + list(input()) + ['-']
 
     visited = [[0] * 7 for i in range(7)]
 
