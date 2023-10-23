@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d306840-1ef6-4f87-b111-2f6fc439e3ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForStatisticsLovers/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GiperTravel/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../UnhappyTickets/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/03-10-2023/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/03-10-2023/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/03-10-2023/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/03-10-2023/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/03-10-2023/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/10-10-2023/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PE/10-10-2023/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/06-10-2023/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/06-10-2023/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/06-10-2023/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/06-10-2023/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/06-10-2023/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/09.10.2023/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../algorithmic-practise/09.10.2023/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/01-10-2023/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/01-10-2023/A1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/01-10-2023/A2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/06-10-2023/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/06-10-2023/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/06-10-2023/E.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/06-10-2023/L.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../trainings/06-10-2023/N.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2WrBjoLbYxDjkqr89fZKrw7TZOG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "onboarding.tips.debug.path": "/home/debil/Universuty/IntroductionToAlgorithms/SplittingANumberIntoASum/src/main/java/org/example/Main.java"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d306840-1ef6-4f87-b111-2f6fc439e3ea" name="Changes" comment="" />
+      <created>1697480957555</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697480957555</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
